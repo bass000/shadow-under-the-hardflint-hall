@@ -2,11 +2,7 @@
 
 Mini-site to capture some informtion of this short campaign.
 
-## Sessions
-
-* [prelude](Session%200.5%20-%20Prelude%20-%20Summary.md)
-* session 01 
-
+[Sessions Writeups](Sessions-writeups)
 
 ## map
 
