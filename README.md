@@ -3,6 +3,7 @@
 Mini-site to capture some informtion of this short campaign.
 
 [Sessions Writeups](Sessions-writeups)
+[NPCs](NPCS)
 
 ## map
 
