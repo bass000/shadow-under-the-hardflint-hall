@@ -2,11 +2,11 @@
 
 Mini-site to capture some informtion of this short campaign.
 
-[Sessions Writeups](Sessions-writeups)
-[NPCs](NPCS)
+* [Sessions Writeups](Sessions-writeups)
+* [NPCs](NPCS)
 
 ## map
 
 Current map of the area
 
-![Map](Sharpstone_Map.png)
+![Map](./Sharpstone_Map_updated.png)
